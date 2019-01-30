@@ -15,3 +15,6 @@ project lead position, as I enjoy managing the flow of the project development.
 I have plenty of programming experience ranging from web, mobile, backend, and front end.  I've worked with HTML, CSS, SASS, Java, Python,
 C++, Javascript, Typescript, MongoDB, Node.js, Express, and Angular.  I have website experience from my job in the Cyber4All research
 group, we use node, angular, express, and mongoDB.
+
+
+My codeacademy profile: https://www.codecademy.com/EmilyVogel
